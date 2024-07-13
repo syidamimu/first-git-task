@@ -252,6 +252,12 @@ footer{
 
 }
 
+.social-icons{
+  width: 68px;
+  justify-items: center;
+  padding: -4px 0 0 10px;
+  margin: -8px 9px 7px 464px;
+}
 
 
 @media only screen and (max-width: 600px){
